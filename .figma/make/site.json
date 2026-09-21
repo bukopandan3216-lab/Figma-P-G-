@@ -1,0 +1,10 @@
+{
+  "description": "This integrated management information system enhances beauty e-commerce with personalized product recommendations and robust admin tools for efficient inventory and customer insights.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
